@@ -1,7 +1,0 @@
-CompileFlags:
-  Add:
-    - --target=i686-elf
-    - -I./src
-    - -WNounused-function
-Diagnostics:
-  UnusedIncludes: None 
